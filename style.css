@@ -11,9 +11,25 @@
 	width: 100%;
 	height: 35vh;
 	background-position: center;
+	opacity: .9;
 }
 
+.site-info{
+	display: none;
+}
 
+.social-links-menu .menu-item a{
+	color : #d28c8c;
+}
+
+.site-footer .social-navigation{
+margin: 0 auto;
+
+}
+
+.site-header-main{
+display: block;
+}
 
 .home .entry-header,.archive .page-title{
 	display:none;
@@ -57,6 +73,7 @@ margin-top: 40px;
 	color:white;
 	font-family:'Kurale', serif;
 	font-style: italic;
+	text-decoration: underline;
 }
 
 .main-navigation a{
