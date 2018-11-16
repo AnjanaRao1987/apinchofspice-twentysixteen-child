@@ -9,9 +9,11 @@
 	background: url('media/hero.jpg') no-repeat;
 	background-size: cover;
 	width: 100%;
-	height: 40vh;
+	height: 35vh;
 	background-position: center;
 }
+
+
 
 .home .entry-header,.archive .page-title{
 	display:none;

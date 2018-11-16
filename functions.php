@@ -41,5 +41,7 @@ function create_custom_post_type_recipe(){
 }
 add_action('init','create_custom_post_type_recipe');
 
-
 ?>
+
+
+
