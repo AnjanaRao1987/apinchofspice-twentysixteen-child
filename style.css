@@ -13,10 +13,35 @@
 	background-position: center;
 }
 
-.entry-header{
+.home .entry-header,.archive .page-title{
 	display:none;
 }
 
+.acf-value{
+	font-family:'Kurale', serif;
+	color: #C0C0C0;
+	font-style: italic;
+	font-size: 0.75em;
+}
+
+.recipes .entry-content p{
+    font-family:'Kurale', serif;
+	color: #C0C0C0;
+	font-style: italic;
+	font-size: 1em;
+}
+
+.archive .page-header{
+	display: none;
+} 
+
+.entry-footer{
+	display: none;
+}
+
+.acf-key{
+	font-family:'Kurale', serif;
+}
 .content-area{
 margin-top: 20px;
 }
@@ -46,4 +71,14 @@ margin-top: 40px;
 	color:white;
 	font-family:'Kurale', serif;
 	font-style: italic;
+}
+
+
+.menu-item a{
+	font-size: 1.5em;
+	color:white;
+	font-family:'Kurale', serif;
+	font-style: italic;
+	top: 0;
+	font-weight: bold;
 }
